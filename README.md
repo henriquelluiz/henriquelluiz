@@ -1,8 +1,8 @@
 
 ## About Me:
-Software developer with professional front-end experience and a generalist profile, working with JavaScript, TypeScript, HTML, CSS, and Vite to build internal web solutions in a banking environment. I contributed to the development of a banking litigation system that grew in adoption and was officially incorporated by the institution.
+Software developer with professional front-end experience and a broad technical background, working with JavaScript, TypeScript, HTML, CSS, and Vite to build internal web solutions in a banking environment. I independently designed and developed a banking litigation system that grew in adoption and is now being taken over by the bank’s analyst team, as well as by its partner technology companies.
 
-I have a strong front-end foundation, the ability to learn new frameworks quickly, and practical experience building organized and maintainable web applications. I have also been studying and practicing back-end development since 2021, focusing on Java, Spring Framework, Kotlin, Ktor, SQL, and PostgreSQL, while also being familiar with Linux, Docker, Podman, and modern development environments.
+I have a strong front-end foundation, the ability to learn new frameworks quickly, and practical experience building organized, maintainable, and production-oriented web applications. I have also been studying and practicing back-end development since 2021, focusing on Java, Spring Framework, Kotlin, Ktor, SQL, and PostgreSQL, while also being familiar with Linux, Docker, Podman, and modern development environments.
 
 I am currently deepening my studies in software architecture, Java specifications, messaging, service integration, and distributed systems, aiming to keep evolving technically in order to design and implement increasingly robust, scalable, and well-structured solutions.
 
