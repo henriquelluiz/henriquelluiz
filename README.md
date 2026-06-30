@@ -1,10 +1,10 @@
 
-## Sobre mim:
-Desenvolvedor com experiência profissional em front-end e perfil generalista, atuando com JavaScript, TypeScript, HTML, CSS e Vite na construção de soluções web internas em ambiente bancário. Participei do desenvolvimento de um sistema de ajuizamento bancário que cresceu em uso e foi incorporado oficialmente pela instituição.
+## About Me:
+Software developer with professional front-end experience and a generalist profile, working with JavaScript, TypeScript, HTML, CSS, and Vite to build internal web solutions in a banking environment. I contributed to the development of a banking litigation system that grew in adoption and was officially incorporated by the institution.
 
-Tenho forte base em front-end, facilidade para aprender novos frameworks e experiência prática na construção de aplicações web organizadas e manuteníveis. Também estudo e pratico desenvolvimento back-end desde 2021, com foco em Java, Spring Framework, Kotlin, Ktor, SQL e PostgreSQL, além de possuir familiaridade com Linux, Docker, Podman e ambientes de desenvolvimento modernos.
+I have a strong front-end foundation, the ability to learn new frameworks quickly, and practical experience building organized and maintainable web applications. I have also been studying and practicing back-end development since 2021, focusing on Java, Spring Framework, Kotlin, Ktor, SQL, and PostgreSQL, while also being familiar with Linux, Docker, Podman, and modern development environments.
 
-Atualmente aprofundo meus estudos em arquitetura de software, especificações Java, mensageria, integração entre serviços e sistemas distribuídos, buscando evoluir tecnicamente para projetar e implementar soluções cada vez mais robustas, escaláveis e bem estruturadas.
+I am currently deepening my studies in software architecture, Java specifications, messaging, service integration, and distributed systems, aiming to keep evolving technically in order to design and implement increasingly robust, scalable, and well-structured solutions.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heenluiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henriqueluizz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heenluy@gmail.com) 
@@ -16,8 +16,5 @@ Atualmente aprofundo meus estudos em arquitetura de software, especificações J
 ![](https://github-readme-stats.shion.dev/api?username=henriquelluiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=henriquelluiz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=henriquelluiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=henriquelluiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
